@@ -39,7 +39,7 @@ URL-Phishing-Detector/
 |
 |-- CAT96.pkl
 |-- requirements.txt
-|-- app.py
+|-- AI_phishing_detection.py
 ```
 
 ### Key Files
@@ -73,7 +73,7 @@ URL-Phishing-Detector/
 2. Navigate to the project directory:
 
    ```bash
-   cd URL-Phishing-Detector
+   cd Phishing-Detection-Using-AI-ML
    ```
 
 3. Install the required dependencies:
@@ -85,7 +85,7 @@ URL-Phishing-Detector/
 4. Run the application:
 
    ```bash
-   python3 app.py
+   python3 AI_phishing_detection.py
    ```
 
 5. Open your browser and navigate to:
